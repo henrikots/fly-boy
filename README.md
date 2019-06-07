@@ -20,9 +20,6 @@ Para executar o jogo execute o arquivo main.py.
 # Jogo
 ![alt text](https://github.com/henrikots/fly-boy/blob/master/img/readme/jogo.PNG)
 
-# Jogo
-![alt text](https://github.com/henrikots/fly-boy/blob/master/img/readme/jogo.PNG)
-
 # Placar da Partida
 ![alt text](https://github.com/henrikots/fly-boy/blob/master/img/readme/placar.PNG)
 
